@@ -1,0 +1,70 @@
+
+====================================
+     Release Notes - Wget Downloader v1.2
+
+        Version 1.2 - Released June 12, 2023
+====================================
+
+
+Key Changes:
+------------
+- Added support for pasting URLs from the clipboard.
+- Enhanced output directory selection with a browse option.
+- Improved error handling during the download process.
+- Added a pop-up window for displaying download completion status.
+- Included an "About" menu item providing information about the application.
+- Added a "How to use..." menu item with instructions on how to use the downloader.
+- Implemented a "Check Version" command to display the current version.
+- Included a submenu for version-related information.
+- Added functionality to open the help file and release notes file.
+-Updated the application icon and logo.
+
+
+Features:
+---------
+- Menu Bar
+    • Added a new Menu Bar to provide easy access to various functions and options.
+- File Menu
+  [Exit]
+    • Allows you to quickly close the software.
+- Help Menu
+  [How to use...]
+    • Provides a quick step-by-step instructions on using the software.
+  [Help File]
+    • Access to the readme documentation.
+  [About]
+    • Find information about the software.
+- Version Menu
+  [Check Version]
+    • Allows you to check what software version you are running.
+  [Release Notes]
+    • Provides detailed information about the current software version, updates, key changes, features and highlights.
+
+
+Enhancements:
+-------------
+- Improved user experience by providing a paste button for URL input.
+- Streamlined the output directory selection process with a browse option.
+- Enhanced error messages and error handling during the download process.
+- Improved usability with informative pop-up messages for download completion.
+- Added informational menu items for better user guidance.
+- Improved navigation by adding submenu items for version-related information.
+- Enabled access to the help file and release notes file directly from the application.
+
+
+Bug Fixes:
+----------
+- Resolved issues related to invalid URLs and missing output directories.
+- Fixed potential errors during the download process.
+
+
+Known Issues:
+-------------
+- None at the moment.
+
+
+For instructions on how to use the Wget Downloader, please refer to the "How to use" section from the menu bar or for detailed instructions refer to the "Help File" section from the menu bar.
+
+
+Thank you for using Wget Downloader!
+
