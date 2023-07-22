@@ -58,7 +58,7 @@ def download_file():
             update_status("Download completed.")
             show_completion_popup()
         except Exception as e:
-            update_status("Error occurred during download: " + str(e))
+            update_status(f"Error occurred during download: {str(e)}")
         finally:
             # Enable the download button after the download
             download_button.config(state=tk.NORMAL)
