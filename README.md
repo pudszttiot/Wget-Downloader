@@ -6,7 +6,7 @@
 
 A simple Wget Downloader application with a graphical user interface (GUI) using the Tkinter library. The application allows users to download files from a specified URL and save them to a selected output directory.
 
-# Screenshots
+## Screenshots
 
 ![Screenshot](https://i.ibb.co/4dxn5YF/v1-0-v1-1-v1-2.png)
 
