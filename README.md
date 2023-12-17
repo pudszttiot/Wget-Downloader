@@ -29,17 +29,17 @@ Provide examples and guidelines on how to use your project.
 
 ## Features
 
-- ** Download Functionality: **
+- **Download Functionality:**
 
   - Allows users to input one or more URLs for file downloads.
   - Provides the option to specify the output directory for downloaded files.
 
-- ** User Interface Elements: **
+- **User Interface Elements:**
 
   - Includes a status widget at the bottom, showing download progress and status messages.
   - Provides buttons for actions such as "Paste URL," "Browse" (to select output directory), and "Download."
 
-- ** Menu Bar: **
+- **Menu Bar:**
 
   - Contains a menu bar with options like "File" (containing "Exit") and "Help" (containing "About," "How to use," and "Help File").
 
