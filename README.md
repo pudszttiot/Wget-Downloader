@@ -35,6 +35,6 @@ List and describe the key features of your project.
 
 Contributions and feedback are welcome! Feel free to submit issues, feature requests, or pull requests to enhance Wget Downloader.
 
-## License
+## License 
 
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License. 
